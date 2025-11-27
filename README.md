@@ -218,13 +218,6 @@ Build configuration:
 
 This project was created as part of a Frontend Developer Intern assignment.
 
-## 📞 Contact
 
-For questions regarding this assignment:
-- Email: [YOUR_EMAIL]
-- GitHub: [YOUR_GITHUB]
-- LinkedIn: [YOUR_LINKEDIN]
-
----
 
 Built with React, TypeScript, Tailwind CSS, and Framer Motion
